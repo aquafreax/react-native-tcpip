@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/aquafreax/react-native-tcpip.git",
+    "url": "https://github.com/aquafreax/react-native-tcpip.git",
     "baseUrl": "https://github.com/aquafreax/react-native-tcpip"
   },
   "keywords": [
